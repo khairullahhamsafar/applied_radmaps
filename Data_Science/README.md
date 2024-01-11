@@ -24,7 +24,7 @@ Embarking on a data science journey with no prior coding or computer science bac
 #### 2. Books and Blogs 📚
 - Python Programming For Beginners: [_An Amazing PDF Book By White Belt Mastery_](https://drive.google.com/file/d/1nLBqgv7N8dCaz_63w19acwUTgsc_yFVy/view?usp=sharing).
 - Introduction to Programming Slides — [_AUP Fall 2020_](https://drive.google.com/file/d/1SkKTGJICDwtRS8L7rPu0aTwWVht-J2hO/view?usp=sharing).
-- Functions in Python, Chapter 07 — [_Python in Urdu Book By Dr. Zeshaan Ul Hassan Usmani_](https://drive.google.com/file/d/1d4SVBB76E1QFscFwoihTriKq15F0R4LT/view?usp=sharing).
+- Python Functions in Urdu, Chapter 07, Python Ka Tauarof — [_Book By Dr. Zeshaan Ul Hassan Usmani, and Dr. Sana Rasheed_](https://drive.google.com/file/d/1d4SVBB76E1QFscFwoihTriKq15F0R4LT/view?usp=sharing).
 - Tutorials Point: [_Online Python Tutorial_](https://www.tutorialspoint.com/python/index.htm).
 
 ### ✔️ Assignments:
@@ -33,6 +33,7 @@ Embarking on a data science journey with no prior coding or computer science bac
 
 ---
 
+### Week 3-4: Pandas and Data Visualization 📊
 
 <br/>
 
@@ -41,7 +42,8 @@ Embarking on a data science journey with no prior coding or computer science bac
 
 <br/>
 
-_#RoadmapToSuccess_ _DataScience_ _Data 📈💡_
+_#RoadmapToSuccess_ _#DataScienceTopVoice_ _#DataScience_ _#Data 📈💡_
 
-_Happy exploring!_
+_Kind regards_
+<br/>
 **Khairullah Hamsafar**
