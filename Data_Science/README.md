@@ -29,6 +29,14 @@ Embarking on a data science journey with no prior coding or computer science bac
 - Create a professional [Linked-In](https://www.linkedin.com/in/khairullah-hamsafar) profile with relevant profile picture, cover image, bio heading, about, skills-set etc,.
 - Solve 40-50 problems on [HackerRank](https://www.hackerrank.com/domains/python?filters%5Bskills%5D%5B%5D=Problem%20Solving%20%28Basic%29&filters%5Bskills%5D%5B%5D=Python%20%28Basic%29&filters%5Bskills%5D%5B%5D=Python%20%28Intermediate%29) | OR | [Leet Code](https://leetcode.com/).
 
+
+<br/>
+
+---
+---
+
+<br/>
+
 _#RoadmapToSuccess_ _DataScience_ _Data 📈💡_
 
 _Happy exploring!_
