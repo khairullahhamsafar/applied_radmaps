@@ -42,8 +42,8 @@ Embarking on a data science journey with no prior coding or computer science bac
 
 <br/>
 
-_#RoadmapToSuccess_ _#DataScienceTopVoice_ _#DataScience_ _#Data 📈💡_
+_#DataScienceTopVoice_ _#RoadmapToSuccess_ _#DataScience_ _#Data 📈💡_
 
-_Kind regards_
+_Kind regards,_
 <br/>
 **Khairullah Hamsafar**
