@@ -14,12 +14,12 @@ Embarking on a data science journey with no prior coding or computer science bac
 
 ### 🗺️ Learning Resources:
 
-#### 1. Videos Tutorials 🎬
+#### 1. Video Tutorials 🎬
  - **English:** Python for Everybody Specialization — [_By University of Michigan on Coursera_](https://www.coursera.org/specializations/python).
  - **Urdu:** Python for Beginners, Dr. Sana Rasheed — [_By Emerging Technologies on YouTube_](https://youtube.com/playlist?list=PL1Xmyl4aKTRgRqNdjcI1C7A4X_PRKZHj6&si=tFPDHADmiDHweCcA).
  - **Hindi:** Python Tutorials in Hindi — [_By Codebasics on YouTube_](https://youtube.com/playlist?list=PLPbgcxheSpE1DJKfdko58_AIZRIT0TjpO&si=0tXxpOXTuudq1mp_).
 
-#### 2. Blogs and Books 📚
+#### 2. Books and Blogs 📚
 - Python Programming For Beginners: [An Amazing PDF Book By White Belt Mastery](https://drive.google.com/file/d/1nLBqgv7N8dCaz_63w19acwUTgsc_yFVy/view?usp=sharing).
 - Introduction to Programming Slides — [AUP Fall 2020](https://drive.google.com/file/d/1SkKTGJICDwtRS8L7rPu0aTwWVht-J2hO/view?usp=sharing).
 - Python Functions Chapter 07 — [Python in Urdu Book By Dr. Zeshaan Ul Hassan Usmani](https://drive.google.com/file/d/1d4SVBB76E1QFscFwoihTriKq15F0R4LT/view?usp=sharing).
