@@ -1,19 +1,35 @@
-# 🌐 Navigating the Information Ocean: A Thoughtful Roadmap Repository
-Welcome to a digital compass amidst the vast sea of information! In the ever-expanding landscape of the internet, where a staggering 147 zettabytes of data are generated daily in 2024, having a reliable roadmap is nothing short of a boon.
+# 🌐 Exploring Data Science: 06 Months Journey!
+Embarking on a data science journey with no prior coding or computer science background? Here's a comprehensive roadmap for the next 6 months, requiring 4 hours of daily study, covering technical and soft skills.
 
-🗺️ After exploring existing roadmaps, it's clear that many suffer from disorganization, lack of topic-specific resources, redundancy, and outdated methodologies. To address these shortcomings, I've embarked on a mission to curate comprehensive, well-organized, and practical roadmaps for various skills, subjects, and fields.
+---
 
-# 🚀 Purposeful Roadmaps for Skill Mastery
-This repository is a labor of love, starting with my own domain, Data Science. It seeks to provide meticulously curated roadmaps with a high impact factor, ensuring a timely and efficient journey towards skill mastery. The focus is on clarity, organization, and relevance, eliminating unnecessary detours.
+### Week 1-2: Python Fundamentals 🐍
+- Variables, Numbers, Strings
+- Lists, Dictionaries, Tuples
+- If condition, for loop
+- Functions, modules
+- Read, write files
+- Exception handling
+- Classes, Objects
 
-# 📚 Continuous Expansion and Improvement
-As time permits, I plan to extend this initiative to cover various skills, subjects, and fields. Each roadmap will be crafted with precision, offering a beacon for those navigating the complexities of learning in today's digital age.
+### 🗺️ Learning Resources:
 
-Join me on this educational journey, and together let's redefine the roadmap experience. Your feedback and contributions are not just welcomed; they are the building blocks for a resource that empowers learners in their quest for knowledge.
+#### 1. Videos Tutorials 🎬
+ - **English:** Python for Everybody Specialization — [_By University of Michigan on Coursera_](https://www.coursera.org/specializations/python).
+ - **Urdu:** Python for Beginners, Dr. Sana Rasheed — [_By Emerging Technologies on YouTube_](https://youtube.com/playlist?list=PL1Xmyl4aKTRgRqNdjcI1C7A4X_PRKZHj6&si=tFPDHADmiDHweCcA).
+ - **Hindi:** Python Tutorials in Hindi — [_By Codebasics on YouTube_](https://youtube.com/playlist?list=PLPbgcxheSpE1DJKfdko58_AIZRIT0TjpO&si=0tXxpOXTuudq1mp_).
 
-I hope you find this repository to be a valuable companion in your learning endeavors.
+#### 2. Blogs and Books 📚
+- Python Programming For Beginners: [An Amazing PDF Book By White Belt Mastery](https://drive.google.com/file/d/1nLBqgv7N8dCaz_63w19acwUTgsc_yFVy/view?usp=sharing).
+- Introduction to Programming Slides — [AUP Fall 2020](https://drive.google.com/file/d/1SkKTGJICDwtRS8L7rPu0aTwWVht-J2hO/view?usp=sharing).
+- Python Functions Chapter 07 — [Python in Urdu Book By Dr. Zeshaan Ul Hassan Usmani](https://drive.google.com/file/d/1d4SVBB76E1QFscFwoihTriKq15F0R4LT/view?usp=sharing).
+- Tutorials Point: [Online Python Tutorial](https://www.tutorialspoint.com/python/index.htm).
 
-_#RoadmapToSuccess 📈💡_
+### ✔️ Assignments:
+- Create a professional [Linked-In](https://www.linkedin.com/in/khairullah-hamsafar) profile with relevant profile picture, cover image, bio heading, about, skills-set etc,.
+- Solve 40-50 problems on [HackerRank](https://www.hackerrank.com/domains/python?filters%5Bskills%5D%5B%5D=Problem%20Solving%20%28Basic%29&filters%5Bskills%5D%5B%5D=Python%20%28Basic%29&filters%5Bskills%5D%5B%5D=Python%20%28Intermediate%29) | OR | [Leet Code](https://leetcode.com/).
+
+_#RoadmapToSuccess_ _DataScience_ _Data 📈💡_
 
 _Happy exploring!_
 **Khairullah Hamsafar**
