@@ -42,22 +42,34 @@ Embarking on a data science journey with no prior coding or computer science bac
 
 - Numpy basics
 - Pandas basics
-- Matplotlib *|OR|* Seaborn for data visualization
+- Data Visualization
+   1. Matplotlib, *or*
+   2. Seaborn, *or*
+   3. Both, if you can
 
 ### 🗺️ Learning Resources:
 
 #### 1. Video Tutorials 🎬
- - **English:** Text here...
+ - **English:** ...
 
- - **Urdu:** Text here...
+ - **Urdu:** ...
 
- - **Hindi:** Text here...
+ - **Hindi:** ...
 
 #### 2. Books and Blogs 📚
-- Text here...
+- ...
+- ...
+
+### ✨ Core/Soft Skills:
+
+- Engage on LinkedIn by following Top Data Science Voice or other Data enthusiasts and influencers.
+- Learn basics economics and study business foundations from ThinkSchool (*focus on case studies*).
+- Join at least two groups regarding Data Science, Data Analysis, and Business Analytics on Linked-In.
 
 ### ✔️ Assignments:
-- Text here...
+- Write meaningful comments on at least five LinkedIn posts.
+- Summarize key learnings from ThinkSchool case studies.
+- Perform EDA on a simple Kaggle datasets, *|OR|* Solve 10 challenges on NumPy and 10 on Pandas from my repo's.
 
 <br/>
 
