@@ -78,6 +78,41 @@ Embarking on a data science journey with no prior coding or computer science bac
 <br/>
 
 ---
+
+### Week 5-8: Statistics and Mathematics for Data Science ᶋ
+
+- 
+
+### 🗺️ Learning Resources:
+
+#### 1. Video Tutorials 🎬
+ - **English:**
+     - ... — [_By_]().
+
+ - **Urdu:** 
+    -     - ... — [_By _]().
+
+ - **Hindi:** 
+    - ... — [_By_]().
+
+#### 2. Books and Blogs 📚
+- ...
+- ...
+
+### ✨ Core/Soft Skills:
+
+- Learn Economics basics and Business foundations — [_By ThinkSchool (*focus on it's case studies*)_]().
+- Create a [Kaggle account,](https://www.kaggle.com/) with professional profile picture, bio and about etc. You can learn Kaggle's profile creation maintainance from Sir Dr. Zeeshan Ul Hassan Usmani playlist — [_By Emerging Technologies on YouTube_](https://youtube.com/playlist?list=PL1Xmyl4aKTRjbxcBNeW0X9Sv5H_5OjfwF&si=bgkJMZyFWxNElRay).
+- Engage on Kaggle by following other [_Data Science fellows and enthusiasts_](https://www.kaggle.com/khairullahhamsafar).
+
+### ✔️ Assignments:
+- Summarize key learnings from ThinkSchool case studies.
+- Write meaningful comments on at least ten Kaggle disussion topics. Also upvote 5 [_notebooks_](https://www.kaggle.com/khairullahhamsafar/code) and 5 [_datasets_](https://www.kaggle.com/khairullahhamsafar/datasets) that you like.
+- Perform EDA on a simple Kaggle [_datasets_](https://www.kaggle.com/competitions/titanic) and submit a competition, ["Titanic"](https://www.kaggle.com/code/alexisbcook/titanic-tutorial/notebook). 
+
+<br/>
+
+---
 ---
 
 <br/>
