@@ -38,7 +38,26 @@ Embarking on a data science journey with no prior coding or computer science bac
 <br/>
 
 
-### Week 3-4: Pandas and Data Visualization 📊
+### Week 3-4: Analytical-Py and Data Visualization 📊
+
+- Numpy basics
+- Pandas basics
+- Matplotlib *|OR|* Seaborn for data visualization
+
+### 🗺️ Learning Resources:
+
+#### 1. Video Tutorials 🎬
+ - **English:** Text here...
+
+ - **Urdu:** Text here...
+
+ - **Hindi:** Text here...
+
+#### 2. Books and Blogs 📚
+- Text here...
+
+### ✔️ Assignments:
+- Text here...
 
 <br/>
 
