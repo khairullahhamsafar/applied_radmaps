@@ -52,9 +52,13 @@ Embarking on a data science journey with no prior coding or computer science bac
 #### 1. Video Tutorials 🎬
  - **English:** ...
 
- - **Urdu:** ...
+ - **Urdu:** 
+    - Python Numpy Tutorial Urdu — [_By Saima Academy on YouTube_](https://youtube.com/playlist?list=PLBx2L_ikudBOtKdai1bPIbK5X6sprQLBW&si=DZSeoSfV6F23OQCE).
+    - 
 
- - **Hindi:** ...
+ - **Hindi:** 
+    - Python NumPy Tutorial in Hindi 2023 — [_By Indian AI Production on YouTube_](https://youtube.com/playlist?list=PLfP3JxW-T70FKkXT9VEeRChKvF4EUInWj&si=yrAPItdkvrj3W727).
+    - 
 
 #### 2. Books and Blogs 📚
 - ...
@@ -63,13 +67,13 @@ Embarking on a data science journey with no prior coding or computer science bac
 ### ✨ Core/Soft Skills:
 
 - Engage on LinkedIn by following Top Data Science Voice or other Data enthusiasts and influencers.
-- Learn basics economics and study business foundations from ThinkSchool (*focus on case studies*).
+- Watch and understan regular foundational aspects of Data Analysis with Dr. Sana Rasheed — [_By Emerging Technologies_](https://youtube.com/playlist?list=PL1Xmyl4aKTRjgD1iu9R_XCPBs4URiprXf&si=15pJt94VOuIVKcQv).
 - Join at least two groups regarding Data Science, Data Analysis, and Business Analytics on Linked-In.
 
 ### ✔️ Assignments:
 - Write meaningful comments on at least five LinkedIn posts.
-- Summarize key learnings from ThinkSchool case studies.
-- Perform EDA on a simple Kaggle datasets, *|OR|* Solve 10 challenges on NumPy and 10 on Pandas from my repo's.
+- Summarize key learnings from Sana Rasheed's Data Analysis playlist.
+- Solve 10 challenges on [_NumPy_]() and 10 on [_Pandas_]() from my repo's.
 
 <br/>
 
