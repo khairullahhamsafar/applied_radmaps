@@ -57,7 +57,7 @@ Embarking on a data science journey with no prior coding or computer science bac
     - Python Pandas Tutorial Urdu — [_By Saima Academy on YouTube_](https://youtube.com/playlist?list=PLBx2L_ikudBOHxFSUVMDKj6yMLu9TlIrp&si=MusN9uizDpM2Abgt).
     - Python Matplotlib Tutorial Urdu — [_By Saima Academy on YouTube_](https://youtube.com/playlist?list=PLBx2L_ikudBPrg52AGC2e3f7_cxZ_NHE2&si=l1_fg_0o_dB9XKRC).
     - Seaborn Beginner to Pro — [_By Learnerea on YouTube_](https://youtube.com/playlist?list=PL4GjoPPG4VqOAwSNw2I-PXUcjw1frHmW2&si=LFSV3rxv5gVz07__).
-    
+    - Data Visualization in Urdu — [_By Hakeem Ur Rehman on YouTube_](https://youtu.be/aRtS6gSrLfE?si=_8_8O4xYr1Yoe_-G).
 
  - **Hindi:** 
     - Python NumPy Tutorial in Hindi 2023 — [_By Indian AI Production on YouTube_](https://youtube.com/playlist?list=PLfP3JxW-T70FKkXT9VEeRChKvF4EUInWj&si=yrAPItdkvrj3W727).
