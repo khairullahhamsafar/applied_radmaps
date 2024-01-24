@@ -54,10 +54,12 @@ Embarking on a data science journey with no prior coding or computer science bac
 
  - **Urdu:** 
     - Python Numpy Tutorial Urdu — [_By Saima Academy on YouTube_](https://youtube.com/playlist?list=PLBx2L_ikudBOtKdai1bPIbK5X6sprQLBW&si=DZSeoSfV6F23OQCE).
+    - Python Pandas Tutorial Urdu — [_By Saima Academy on YouTube_](https://youtube.com/playlist?list=PLBx2L_ikudBOHxFSUVMDKj6yMLu9TlIrp&si=MusN9uizDpM2Abgt).
     
 
  - **Hindi:** 
     - Python NumPy Tutorial in Hindi 2023 — [_By Indian AI Production on YouTube_](https://youtube.com/playlist?list=PLfP3JxW-T70FKkXT9VEeRChKvF4EUInWj&si=yrAPItdkvrj3W727).
+    - Python Pandas Tutorial in Hindi 2023 — [_By Indian AI Production on YouTube_](https://youtube.com/playlist?list=PLfP3JxW-T70Gf4iJXPb0Yw5_-tDRCD6LB&si=VuhWKZrIVPGXwBdg).
     
 
 #### 2. Books and Blogs 📚
